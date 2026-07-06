@@ -177,4 +177,3 @@ The system retrieves the relevant document chunks and generates an answer strict
 ## Author
 
 Anshula
-Arya college of engineering and I.T.
