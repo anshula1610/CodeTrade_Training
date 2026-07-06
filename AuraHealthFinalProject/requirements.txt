@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+chromadb
+sentence-transformers
+langchain
+langchain-community
+python-dotenv
+torch
+transformers
+numpy
+pandas
+tqdm
